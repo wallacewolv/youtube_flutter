@@ -8,7 +8,9 @@ const URL_BASE = "https://www.googleapis.com/youtube/v3/";
 class Api {
   pesquisar(String pesquisa) async {
     http.Response response = await http.get(
-        URL_BASE + ""
+        URL_BASE + "search"
+            "?part=snippet"
+            ""
     )
   }
 }
