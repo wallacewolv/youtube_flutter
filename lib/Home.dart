@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:youtube_flutter/telas/Api.dart';
 
 import 'package:youtube_flutter/telas/Inicio.dart';
 import 'package:youtube_flutter/telas/EmAlta.dart';
@@ -17,9 +16,6 @@ class _HomeState extends State<Home> {
 
   @override
   Widget build(BuildContext context) {
-
-    Api api = Api();
-    api.pesquisar("");
 
     List<Widget> telas = [
       Inicio(),
