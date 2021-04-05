@@ -47,13 +47,13 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Flutter] (https://flutter.dev/)  and [ADB Android](https://developer.android.com/studio/command-line/adb?hl=pt-br) installed.
+Before starting :checkered_flag:, you need to have [Flutter](https://flutter.dev/)  and [ADB Android](https://developer.android.com/studio/command-line/adb?hl=pt-br) installed.
 
 ## :checkered_flag: Starting ##
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/youtube_flutter
+$ git clone https://github.com/wallacewolv/youtube_flutter
 
 # Access
 $ cd youtube_flutter
