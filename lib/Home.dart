@@ -11,12 +11,10 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-
   int _indiceAtual = 0;
 
   @override
   Widget build(BuildContext context) {
-
     List<Widget> telas = [
       Inicio(),
       EmAlta(),
@@ -32,32 +30,35 @@ class _HomeState extends State<Home> {
         ),
         backgroundColor: Colors.white,
         title: Image.asset(
-            "images/youtube.png",
+          "images/youtube.png",
           width: 98,
           height: 22,
         ),
         actions: <Widget>[
           IconButton(
             icon: Icon(Icons.videocam),
-            onPressed: (){
+            onPressed: () {
               print("acao: videocam");
             },
           ),
           IconButton(
             icon: Icon(Icons.search),
-            onPressed: (){
+            onPressed: () {
               print("acao: pesquisa");
             },
           ),
           IconButton(
             icon: Icon(Icons.account_circle),
-            onPressed: (){
+            onPressed: () {
               print("acao: conta");
             },
           ),
         ],
       ),
-      body: telas[_indiceAtual],
+      body: Container(
+        padding: EdgeInsets.all(16),
+        child: telas[_indiceAtual],
+      ),
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: _indiceAtual,
         onTap: (indice) {
