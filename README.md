@@ -61,8 +61,6 @@ $ cd youtube_flutter
 # Run the project
 $ Debug on your Android device
 
-
-# The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License ##
