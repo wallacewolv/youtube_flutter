@@ -8,10 +8,6 @@
 
 <h1 align="center">Youtube Flutter</h1>
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{https://github.com/wallacewolv}}/youtube_flutter?color=56BEB8">
-</p>
-
 <!-- Status -->
 
 <!-- <h4 align="center"> 
@@ -74,7 +70,7 @@ $ Debug on your Android device
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{https://github.com/wallacewolv}}" target="_blank">{{Wallace}}</a>
+Made with :heart: by <a href="https://github.com/{{https://github.com/wallacewolv}}" target="_blank"> Wallace</a>
 
 &#xa0;
 
