@@ -1,16 +1,8 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Youtube_flutter" />
-
-  &#xa0;
-
-  <!-- <a href="https://youtube_flutter.netlify.app">Demo</a> -->
-</div>
+<h1 align="center"> 
+  <img height="80" src="./images/youtube.png" alt="Youtube_flutter" />
+</h1>
 
 <h1 align="center">Youtube Flutter</h1>
-
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{https://github.com/wallacewolv}}/youtube_flutter?color=56BEB8">
-</p>
 
 <!-- Status -->
 
@@ -27,7 +19,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/wallacewolv" target="_blank">Author</a>
 </p>
 
 <br>
@@ -38,9 +30,8 @@ Application developed with Flutter and use of Api to search and watch the platfo
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Searching for youtube channels\
+:heavy_check_mark: Searching for youtube content
 
 ## :rocket: Technologies ##
 
@@ -51,13 +42,13 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Flutter] (https://flutter.dev/)  and [ADB Android](https://developer.android.com/studio/command-line/adb?hl=pt-br) installed.
+Before starting :checkered_flag:, you need to have [Flutter](https://flutter.dev/)  and [ADB Android](https://developer.android.com/studio/command-line/adb?hl=pt-br) installed.
 
 ## :checkered_flag: Starting ##
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/youtube_flutter
+$ git clone https://github.com/wallacewolv/youtube_flutter
 
 # Access
 $ cd youtube_flutter
@@ -65,16 +56,14 @@ $ cd youtube_flutter
 # Run the project
 $ Debug on your Android device
 
-
-# The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
-Made with :heart: by <a href="https://github.com/{{https://github.com/wallacewolv}}" target="_blank">{{Wallace}}</a>
+Made with :heart: by <a href="https://github.com/wallacewolv" target="_blank"> Wallace</a>
 
 &#xa0;
 
