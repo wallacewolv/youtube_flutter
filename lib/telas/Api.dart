@@ -24,7 +24,13 @@ class Api {
 
       List<Video> videos = dadosJson["items"].map<Video>((map) {
         return Video.fromJson(map);
-      });
+        //return Video.converterJson(map);
+      }).toList();
+
+      for (var video in videos) {
+        print("resultado: " + video.titulo);
+      }
+      // print("Resultad: " + videos.toString());
 
       /*
       for (var video in dadosJson["items"]) {
