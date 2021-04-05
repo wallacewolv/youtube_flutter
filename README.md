@@ -70,7 +70,7 @@ $ Debug on your Android device
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{https://github.com/wallacewolv}}" target="_blank"> Wallace</a>
+Made with :heart: by <a href="https://github.com/wallacewolv" target="_blank"> Wallace</a>
 
 &#xa0;
 
