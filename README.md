@@ -67,7 +67,7 @@ $ Debug on your Android device
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
 Made with :heart: by <a href="https://github.com/wallacewolv" target="_blank"> Wallace</a>
