@@ -1,10 +1,6 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Youtube_flutter" />
-
-  &#xa0;
-
-  <!-- <a href="https://youtube_flutter.netlify.app">Demo</a> -->
-</div>
+<h1 align="center"> 
+  <img height="80" src="./images/youtube.png" alt="Youtube_flutter" />
+</h1>
 
 <h1 align="center">Youtube Flutter</h1>
 
@@ -34,9 +30,8 @@ Application developed with Flutter and use of Api to search and watch the platfo
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Searching for youtube channels\
+:heavy_check_mark: Searching for youtube content
 
 ## :rocket: Technologies ##
 
